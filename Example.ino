@@ -16,4 +16,5 @@ void loop() {
   digitalWrite(ledPin, LOW);
   // Wait for a second
   delay(1000);
+  delay(2000);
 }
